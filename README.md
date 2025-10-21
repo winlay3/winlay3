@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hi, I'm Win Myint Kyaw
 
-<!--
-**winlay3/winlay3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Software Engineering Student**  
+Mae Fah Luang University | Fourth Year | Fresh Graduate  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💡 Interests
+- Data Science & Analytics  
+- Machine Learning & Deep Learning  
+- AI & Data Engineering 
+
+---
+
+### 🧠 Skills
+- **Programming:** Python, Java, JavaScript  
+- **Libraries:** TensorFlow, PyTorch, Scikit-learn, Pandas, NumPy, Matplotlib  
+- **Tools:** Git, VSCode, Jupyter, Anaconda  
+
+---
+
+### 🤝 Soft Skills
+- Communication  
+- Problem Solving  
+- Team Collaboration  
+- Adaptability  
+
+---
+
+⭐️ *Always learning and exploring data-driven solutions.*
