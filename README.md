@@ -15,7 +15,7 @@ Mae Fah Luang University | Fourth Year | Fresh Graduate
 ### 🧠 Skills
 - **Programming:** Python, Java, JavaScript  
 - **Libraries:** TensorFlow, PyTorch, Scikit-learn, Pandas, NumPy, Matplotlib  
-- **Tools:** Git, VSCode, Jupyter, Anaconda  
+- **Tools:** Git, VSCode, Jupyter, Anaconda, GCP 
 
 ---
 
